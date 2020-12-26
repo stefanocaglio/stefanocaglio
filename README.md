@@ -25,8 +25,7 @@ I'm currently working on (optimally) using and leveraging various tools for remo
 GitHub, Jekyll, Python, R, Notion.
 
 ### ⚡ Fun facts
-- love running
-- ULM pilot
+I love running, SCUBA diving, flying
 
 ### :coffee: Let's chat
 
