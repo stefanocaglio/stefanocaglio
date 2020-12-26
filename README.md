@@ -1,9 +1,5 @@
-### Hi there 👋
-
 <!--
 **stefanocaglio/stefanocaglio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +10,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="center">Ciao, I'm Stefano</h3>
+<p align="center"><a href="https://www.linkedin.com/in/stefanocaglio/">LinkedIn</a> | <a href="https://twitter.com/stefanocaglio">Twitter</a> | <a href="https://stefanocaglio.com">Website</a>
+  
+<hr>
+
+### 🔭  My current project
+
+I'm currently working on (optimally) using and leveraging various tools for remote classes /training.
+
+### 🌱  I’m currently learning 
+
+GitHub, Python, R, Notion.
+
+### ⚡ Fun facts
+- love running
+- ULM pilot
+
+### :coffee: Let's chat
+
+Find me on [Twitter](https://twitter.com/stefanocaglio)
