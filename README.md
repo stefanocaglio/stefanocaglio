@@ -22,7 +22,7 @@ I'm currently working on (optimally) using and leveraging various tools for remo
 
 ### 🌱  I’m currently learning 
 
-GitHub, Python, R, Notion.
+GitHub, Jekyll, Python, R, Notion.
 
 ### ⚡ Fun facts
 - love running
