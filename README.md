@@ -19,13 +19,14 @@
 ### 🔭  My current project
 
 I'm currently working on (optimally) using and leveraging various tools for remote classes /training.
+I ❤️ automating stuff! 🦾 
 
 ### 🌱  I’m currently learning 
 
-GitHub, Jekyll, Python, R, Notion.
+Google Apps Script, Jekyll, Python, R, Notion.
 
 ### ⚡ Fun facts
-I love running, SCUBA diving, flying
+I love running, SCUBA diving, flying.
 
 ### :coffee: Let's chat
 
