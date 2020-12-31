@@ -19,6 +19,7 @@
 ### 🔭  My current project
 
 I'm currently working on (optimally) using and leveraging various tools for remote classes /training.
+
 I ❤️ automating stuff! 🦾 
 
 ### 🌱  I’m currently learning 
