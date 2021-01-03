@@ -23,7 +23,7 @@ I ❤️ automating stuff! 🦾
 
 ### 🌱  I’m currently learning 
 
-Google Apps Script, Jekyll, Python, R, Notion.
+Google Apps Script, Jekyll, Python, R, Notion, Observable, D3.js.
 
 ### ⚡ Fun facts
 I love running, SCUBA diving, flying.
