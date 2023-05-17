@@ -12,7 +12,7 @@
 -->
 
 <h3 align="center">Ciao, I'm Stefano</h3>
-<p align="center"><a href="https://www.linkedin.com/in/stefanocaglio/">LinkedIn</a> | <a href="https://twitter.com/stefanocaglio">Twitter</a> | <a href="https://stefanocaglio.com">Website</a>
+<p align="center"><a href="https://www.linkedin.com/in/stefanocaglio/">LinkedIn</a> | <a href="https://twitter.com/stefanocaglio">Twitter</a> | <a href="https://stefanocaglio.com">Website</a> | <a href="https://stefanocaglio.quarto.pub">Blog</a>
   
 <hr>
 
